@@ -1,0 +1,4 @@
+/* Removing default App.css styles since we use utility classes in index.css */
+.App {
+  text-align: left;
+}
